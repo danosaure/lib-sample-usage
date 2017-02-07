@@ -1,0 +1,23 @@
+{
+  "name": "lib-sample-usage",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danosaure/lib-sample-usage.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danosaure/lib-sample-usage/issues"
+  },
+  "homepage": "https://github.com/danosaure/lib-sample-usage#readme",
+  "dependencies": {
+    "express": "4.14.1",
+    "lib-sample": "git+https://github.com/danosaure/lib-sample.git"
+  }
+}
